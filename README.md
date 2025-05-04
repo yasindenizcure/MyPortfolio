@@ -1,4 +1,5 @@
-🚀 MyPortfolio
+#🚀 MyPortfolio
+
 Merhaba! Bu proje, Murat Yücedağ'ın “ASP.Net Core ile Portfolyo Uygulamanızı Geliştirin Part-1 & Part-2” eğitim serisinin tamamlanmış ve geliştirilmiş halidir.
 Modern ve kullanıcı dostu bir kişisel portfolyo web uygulamasıdır. 👨‍💻✨
 
