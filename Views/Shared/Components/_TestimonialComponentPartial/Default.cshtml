@@ -1,4 +1,5 @@
-﻿<div id="testimonials" class="s-testimonials">
+﻿@model List<MyPortfolio.DAL.Entities.Testimonial>
+<div id="testimonials" class="s-testimonials">
 
     <div class="overlay"></div>
 
@@ -11,43 +12,21 @@
     <div class="row testimonials">
 
         <div class="col-full testimonials__slider">
-
-            <div class="testimonials__slide">
-                <img src="~/hola-master/images/Elon.jpg" alt="Author image" class="testimonials__avatar">
+            @foreach (var item in Model)
+            {
+                 <div class="testimonials__slide">
+                <img src="@item.ImageUrl" alt="@item.NameSurname" class="testimonials__avatar">
                 <p>
-                    Onunla çalışmak, sınırları zorlayan bir vizyonun içinde olmak gibiydi. Kararlılığı ve enerjisi ilham verici.
-                    Her projeye tutkuyla yaklaşan nadir insanlardan biri.
+                    @item.Description
                 </p>
                 <div class="testimonials__author h06">
-                    Elon Musk
-                    <span>CEO, Space X & Tesla</span>
+                    @item.NameSurname
+                    <span>@item.Title</span>
                 </div>
             </div>
+            }
 
-            <div class="testimonials__slide">
-                <img src="~/hola-master/images/BillGates.jpg" alt="Author image" class="testimonials__avatar">
-                <p>
-                    Teknolojiye olan yaklaşımı ve çözüm odaklı düşünce tarzı beni gerçekten etkiledi.
-                    Karmaşık sorunları sadeleştirip etkili çözümler üretme konusunda olağanüstü bir yeteneğe sahip.
-                </p>
-                </p>
-                <div class="testimonials__author h06">
-                    Bill Gates
-                    <span>Kurucu, Microsoft</span>
-                </div>
-            </div>
-
-            <div class="testimonials__slide">
-                <img src="~/hola-master/images/SteveJobs.jpg" alt="Author image" class="testimonials__avatar">
-                <p>
-                    Detaylara verdiği önem ve estetik anlayışıyla fark yaratıyor. Yaptığı her işte kaliteye olan bağlılığı göz önünde.
-                    Gerçek bir yaratıcı zihin.
-                </p>
-                <div class="testimonials__author h06">
-                    Steve Jobs
-                    <span>Kurucu Ortak, Apple</span>
-                </div>
-            </div>
+           
 
         </div>
 
