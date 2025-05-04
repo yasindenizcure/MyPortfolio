@@ -5,8 +5,8 @@ Modern ve kullanıcı dostu bir kişisel portfolyo web uygulamasıdır. 👨‍�
 -------------------------------------------------
 
 🧭 Genel Bakış
-🛠️ Admin Paneli:
-Kullanıcıların kolayca:
+-----
+🛠️ Admin Paneli: Kullanıcıların Kolayca
 
 👤 Kişisel bilgilerini güncelleyebileceği
 
