@@ -17,8 +17,8 @@ Kullanıcıların kolayca:
 📝 Referansları kontrol edebileceği
 
 📬 Mesajları ve okunma durumlarını görebileceği
-
 gelişmiş bir CRUD paneli sunar.
+
 ---------------------------------------------------------------------------------------
 
 | Teknoloji                     | Açıklama                                            |
@@ -30,7 +30,8 @@ gelişmiş bir CRUD paneli sunar.
 | 🐘 **MSSQL**                  | Veritabanı yönetim sistemi                          |
 | 🎨 **HTML & CSS**             | Temel yapı ve stil                                  |
 | 🧩 **Bootstrap**              | Responsive ve modern tasarım                        |
-| 🖱️ **JavaScript & jQuery**   | Dinamik etkileşimler ve kullanıcı arayüzü efektleri |
+| 🖱️ **JavaScript & jQuery**   | Dinamik etkileşimler ve kullanıcı arayüzü efektleri  |
+--------------------------------------------------------------------------------------
 
 ![1](https://github.com/user-attachments/assets/e6abd57d-ba23-4d79-b00f-6128c1d6ea0c)
 ![2](https://github.com/user-attachments/assets/41bb8f86-2570-4754-a788-736be02c4606)
