@@ -1,5 +1,5 @@
 #🚀 MyPortfolio
-
+-------------------------------------------------
 Merhaba! Bu proje, Murat Yücedağ'ın “ASP.Net Core ile Portfolyo Uygulamanızı Geliştirin Part-1 & Part-2” eğitim serisinin tamamlanmış ve geliştirilmiş halidir.
 Modern ve kullanıcı dostu bir kişisel portfolyo web uygulamasıdır. 👨‍💻✨
 
@@ -19,18 +19,17 @@ Kullanıcıların kolayca:
 
 gelişmiş bir CRUD paneli sunar.
 
-🧰 Kullanılan Teknolojiler
-Bu projede aşağıdaki teknolojiler ve araçlar kullanılmıştır:
+| Teknoloji                     | Açıklama                                            |
+| ----------------------------- | --------------------------------------------------- |
+| ⚙️ **ASP.NET Core MVC**       | Uygulama çatısı – Model-View-Controller mimarisi    |
+| 🗃️ **Entity Framework Core** | ORM (Object-Relational Mapping) teknolojisi          |
+| 🧠 **LINQ**                   | Veri sorgulama ve filtreleme işlemleri              |
+| 🧱 **Code First**             | Veritabanı oluşturma yöntemi                        |
+| 🐘 **MSSQL**                  | Veritabanı yönetim sistemi                          |
+| 🎨 **HTML & CSS**             | Temel yapı ve stil                                  |
+| 🧩 **Bootstrap**              | Responsive ve modern tasarım                        |
+| 🖱️ **JavaScript & jQuery**   | Dinamik etkileşimler ve kullanıcı arayüzü efektleri |
 
-Teknoloji	Açıklama
-⚙️ ASP.NET Core MVC	Uygulama çatısı – model-view-controller mimarisi
-🗃️ Entity Framework Core	ORM (Object-Relational Mapping) teknolojisi
-🧠 LINQ	 - Veri sorgulama ve filtreleme işlemleri
-🧱 Code First	 - Veritabanı oluşturma yöntemi
-🐘 MSSQL	- Veritabanı yönetim sistemi
-🎨 HTML & CSS	 - Temel yapı ve stili
-🧩 Bootstrap -	Responsive ve modern tasarım
-🖱️ JavaScript & jQuery	- Dinamik etkileşimler ve UI efektleri
 ![1](https://github.com/user-attachments/assets/e6abd57d-ba23-4d79-b00f-6128c1d6ea0c)
 ![2](https://github.com/user-attachments/assets/41bb8f86-2570-4754-a788-736be02c4606)
 ![3](https://github.com/user-attachments/assets/d5879e74-5e16-475e-9839-3f8489142dc1)
